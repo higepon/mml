@@ -11,3 +11,4 @@ My notes when reading [Mathematics for Machine Learning](https://mml-book.github
 - [8.When Models Meets Data.pdf](https://github.com/higepon/mml/releases/download/0.0.8/8.When.Models.Meets.Data.pdf)
 - [9.Linear Regression.pdf](https://github.com/higepon/mml/releases/download/0.0.9/9.Linear.Regression.pdf)
 - [10.Dimentionality Reduction With Principal Component Analysis.pdf](https://github.com/higepon/mml/releases/download/0.1.0/10.Dimensionality.Reduction.With.Principal.Component.Analysis.pdf)
+- [11.Density Estimation With Gaussian Mixture Models](https://github.com/higepon/mml/releases/download/0.1.1/11.Density.Estimation.With.Gaussian.Mixture.Models.pdf)
